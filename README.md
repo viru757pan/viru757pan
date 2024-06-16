@@ -8,6 +8,26 @@ Glad to see you here! I'm **Viresh Panchal**, a dedicated Software Developer wit
 
 ## Let's connect!
 
-Explore my thoughts at  𝕏 [Twitter](https://x.com/VireshPanc81673?s=09) and [LinkedIn]([https://www.linkedin.com/in/viresh-panchal-3923a11b9]).
+Explore my thoughts at 𝕏 [Twitter](https://x.com/VireshPanc81673?s=09) and [LinkedIn]([https://www.linkedin.com/in/viresh-panchal-3923a11b9]).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vireshpanchal-blue)] [![Twitter](https://img.shields.io/twitter/follow/vireshpanchal?style=social)]
+
+<div align="center">
+  Explore my thoughts at <a href="https://twitter.com/vireshpanchal">Twitter</a> and <a href="https://linkedin.com/in/vireshpanchal">LinkedIn</a>.
+
+  <br><br>
+
+  <a href="https://www.kaggle.com/vireshpanchal">
+    <img src="https://img.shields.io/badge/Kaggle-vireshpanchal-blue" alt="Kaggle">
+  </a>
+  <a href="https://twitter.com/vireshpanchal">
+    <img src="https://img.shields.io/twitter/follow/vireshpanchal?style=social" alt="Twitter">
+  </a>
+  <a href="https://peerlist.io/vireshpanchal">
+    <img src="https://img.shields.io/badge/Peerlist-vireshpanchal-brightgreen" alt="Peerlist">
+  </a>
+  <a href="https://linkedin.com/in/vireshpanchal">
+    <img src="https://img.shields.io/badge/LinkedIn-vireshpanchal-blue" alt="LinkedIn">
+  </a>
+</div>
+
