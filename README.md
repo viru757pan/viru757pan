@@ -4,9 +4,9 @@ Glad to see you here! I'm **Viresh Panchal**, a dedicated Software Developer wit
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,python,cpp,c,js,html,css,nodejs,mysql,mongodb,git)
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,mysql,mongodb,git)
 
 ## Let's connect!
 
 - [LinkedIn](www.linkedin.com/in/viresh-panchal-3923a11b9)
-- [Twitter]([https://twitter.com/vireshpanchal](https://x.com/VireshPanc81673?s=09))
+- [Twitter](https://x.com/VireshPanc81673?s=09)
