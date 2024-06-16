@@ -1,6 +1,8 @@
 # <👋 Namaste, World! />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</div>
 
 Glad to see you here! I'm **Viresh Panchal**, a dedicated Software Developer with a keen interest in Artificial Intelligence, Machine Learning, and Neural Network. I balance code with Music 🎵 and find joy in a cup of coffee ☕. From the spice-laden markets of Ratlam to the serene banks of the Mahi, I traded bustling bazaars for tranquil riversides and discovered that peace isn't just a place!
 
