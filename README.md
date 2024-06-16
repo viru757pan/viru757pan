@@ -8,5 +8,6 @@ Glad to see you here! I'm **Viresh Panchal**, a dedicated Software Developer wit
 
 ## Let's connect!
 
-- [LinkedIn](www.linkedin.com/in/viresh-panchal-3923a11b9)
-- [Twitter](https://x.com/VireshPanc81673?s=09)
+Explore my thoughts at ![Twitter](https://x.com/VireshPanc81673?s=09) and [LinkedIn]([https://www.linkedin.com/in/viresh-panchal-3923a11b9]).
+
+![LinkedIn]([https://www.linkedin.com/in/viresh-panchal-3923a11b9]) ![Twitter](https://x.com/VireshPanc81673?s=09)
