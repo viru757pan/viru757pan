@@ -8,7 +8,7 @@ Glad to see you here! I'm **Viresh Panchal**, a dedicated Software Developer wit
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,mysql,mongodb,git)
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,mysql,bootstrap,mongodb,git)
 
 ## Let's connect!
 <div align="center">
