@@ -1,5 +1,3 @@
 # <👋 Namaste, World! />
 
-Hey, I'm Viresh Panchal, and I'm an aspiring software engineer. I love coding for the web, mobile apps, and open source projects, but I also like music and traveling.
-
-I learned that peace isn't just a place, but a state of mind, when I traded the bustling bazaars of Ratlam for the serene banks of the Mahi River. ✈️ 🎵 💻
+Glad to see you here! I'm Viresh Panchal, a dedicated Software Developer with a keen interest in Artificial Intelligence, Cybersecurity, and Blockchain. I balance code with Music 🎵 and find joy in a cup of coffee ☕. From the spice-laden markets of Ratlam to the serene banks of the Mahi, I traded bustling bazaars for tranquil riversides and discovered that peace isn't just a place!
