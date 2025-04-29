@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
-I'm glad to see you here! My name is **Viresh Panchal**, and I am a dedicated Software Developer with a strong interest in Artificial Intelligence, Machine Learning, and Neural Networks. I find a balance between coding and music 🎵, and I also enjoy a good cup of coffee ☕. Having grown up in the vibrant markets of Ratlam, I now appreciate the tranquility of the serene banks of the Mahi River. This journey has taught me that peace is not merely a physical location, but a state of mind.
+I'm glad to see you here! My name is Viresh Panchal, and I am a dedicated <b>Software Developer</b> and <b>Backend Developer</b> with a strong interest in Artificial Intelligence, Machine Learning, and Neural Networks. I balance my passion for coding with a love for music 🎵 and a good cup of coffee ☕. Having grown up amidst the vibrant markets of Ratlam, I now appreciate the tranquility of the serene banks of the Mahi River. This journey has taught me that peace is not merely a place—it's a state of mind.
 
 ## Tech Stack
 
